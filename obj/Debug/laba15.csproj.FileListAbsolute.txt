@@ -1,0 +1,16 @@
+D:\labsC#\laba15\bin\Debug\laba15.exe.config
+D:\labsC#\laba15\bin\Debug\laba15.exe
+D:\labsC#\laba15\bin\Debug\laba15.pdb
+D:\labsC#\laba15\obj\Debug\laba15.csprojAssemblyReference.cache
+D:\labsC#\laba15\obj\Debug\laba15.Properties.Resources.resources
+D:\labsC#\laba15\obj\Debug\laba15.csproj.GenerateResource.cache
+D:\labsC#\laba15\obj\Debug\laba15.csproj.CoreCompileInputs.cache
+D:\labsC#\laba15\obj\Debug\laba15.exe
+D:\labsC#\laba15\obj\Debug\laba15.pdb
+D:\labsC#\laba15\obj\Debug\laba15.FormStart.resources
+D:\labsC#\laba15\obj\Debug\laba15.AddDialog.resources
+D:\labsC#\laba15\obj\Debug\laba15.DeleteDialog.resources
+D:\labsC#\laba15\obj\Debug\laba15.CorrectDialog.resources
+D:\labsC#\laba15\obj\Debug\laba15.SpecialTypeDialog.resources
+D:\labsC#\laba15\obj\Debug\laba15.FormWorkWithFile.resources
+D:\labsC#\laba15\obj\Debug\laba15.FormFiles.resources
